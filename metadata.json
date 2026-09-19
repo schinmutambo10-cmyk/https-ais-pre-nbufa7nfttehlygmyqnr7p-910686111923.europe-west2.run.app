@@ -1,0 +1,6 @@
+{
+  "name": "Chelstone Ink Art & Tattoos",
+  "description": "Professional tattoo artistry, custom tattoo design, and creative expression located on Mutanga Avenue in Lusaka, Zambia.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
